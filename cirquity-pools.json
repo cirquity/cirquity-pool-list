@@ -1,0 +1,9 @@
+{
+  "pools": [
+    {
+      "name" : "Cirquity Pool",
+      "url" : "https://pool.cirquity.com",
+      "api" : "https://api-pool.cirquity.com"
+    }
+  ]
+}
