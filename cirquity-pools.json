@@ -6,14 +6,14 @@
       "api" : "https://api-pool.cirquity.com"
     },
     {
-      "name" : "My Mining Pool",
-      "url" : "https://cirquity.my-mining-pool.de",
-      "api" : "https://apicirquity.my-mining-pool.de"
-    },
-    {
       "name" : "Semipool",
       "url" : "https://webcirq.semipool.com",
       "api" : "https://webcirq.semipool.com/api"
+    },
+    {
+      "name" : "My Mining Pool",
+      "url" : "https://cirquity.my-mining-pool.de",
+      "api" : "https://apicirquity.my-mining-pool.de"
     }
   ]
 }
