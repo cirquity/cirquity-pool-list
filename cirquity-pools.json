@@ -9,7 +9,7 @@
     {
       "name" : "Semipool",
       "url" : "https://webcirq.semipool.com",
-      "api" : "https://webcirq.semipool.com/api/pool",
+      "api" : "https://webcirq.semipool.com/api",
       "type" : "snipa22-nodejs-pool"
     },
     {
