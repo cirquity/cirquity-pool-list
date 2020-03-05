@@ -4,6 +4,11 @@
       "name" : "Cirquity Pool",
       "url" : "https://pool.cirquity.com",
       "api" : "https://api-pool.cirquity.com"
+    },
+    {
+      "name" : "My Mining Pool",
+      "url" : "https://cirquity.my-mining-pool.de",
+      "api" : "https://apicirquity.my-mining-pool.de"
     }
   ]
 }
