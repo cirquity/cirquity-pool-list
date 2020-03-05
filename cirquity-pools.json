@@ -3,17 +3,20 @@
     {
       "name" : "Cirquity Pool",
       "url" : "https://pool.cirquity.com",
-      "api" : "https://api-pool.cirquity.com"
+      "api" : "https://api-pool.cirquity.com",
+      "type" : "cryptonote-nodejs-pool"
     },
     {
       "name" : "Semipool",
       "url" : "https://webcirq.semipool.com",
-      "api" : "https://webcirq.semipool.com/api/pool"
+      "api" : "https://webcirq.semipool.com/api/pool",
+      "type" : "snipa22-nodejs-pool"
     },
     {
       "name" : "My Mining Pool",
       "url" : "https://cirquity.my-mining-pool.de",
-      "api" : "https://apicirquity.my-mining-pool.de"
+      "api" : "https://apicirquity.my-mining-pool.de",
+      "type" : "cryptonote-nodejs-pool"
     }
   ]
 }
