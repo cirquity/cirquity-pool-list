@@ -17,6 +17,12 @@
       "url" : "https://cirquity.my-mining-pool.de",
       "api" : "https://apicirquity.my-mining-pool.de",
       "type" : "cryptonote-nodejs-pool"
+    },
+    {
+      "name" : "Miner Galaxy",
+      "url" : "http://minergalaxy.com/CIR/",
+      "api" : "http://167.86.103.145:8117",
+      "type" : "cryptonote-nodejs-pool"
     }
   ]
 }
