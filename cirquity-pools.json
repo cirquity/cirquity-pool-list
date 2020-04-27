@@ -23,6 +23,12 @@
       "url" : "http://minergalaxy.com/CIR/",
       "api" : "http://167.86.103.145:8117",
       "type" : "cryptonote-nodejs-pool"
+    },
+    {
+      "name" : "FastPooL.XyZ",
+      "url" : "https://fastpool.xyz/cirq/",
+      "api" : "https://fastpool.xyz:10120",
+      "type" : "cryptonote-nodejs-pool"
     }
   ]
 }
