@@ -14,8 +14,8 @@
     },
     {
       "name" : "My Mining Pool",
-      "url" : "http://cirquity.my-mining-pool.de",
-      "api" : "http://apicirquity.my-mining-pool.de",
+      "url" : "https://cirquity.my-mining-pool.de",
+      "api" : "https://apicirquity.my-mining-pool.de",
       "type" : "cryptonote-nodejs-pool"
     },
     {
