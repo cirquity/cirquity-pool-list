@@ -35,6 +35,12 @@
       "url" : "http://cirq.letshash.it/",
       "api" : "http://letshash.it:8117",
       "type" : "cryptonote-nodejs-pool"
+    },
+    {
+      "name" : "Super Blockchain",
+      "url" : "https://superblockchain.con-ip.com/xun/",
+      "api" : "https://superblockchain.con-ip.com:8143",
+      "type" : "cryptonote-nodejs-pool"
     }
   ]
 }
