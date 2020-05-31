@@ -33,7 +33,7 @@
     {
       "name" : "Lets Hash It",
       "url" : "http://cirq.letshash.it/",
-      "api" : "http://letshash.it:8117",
+      "api" : "http://letshash.it:8002",
       "type" : "cryptonote-nodejs-pool"
     },
     {
