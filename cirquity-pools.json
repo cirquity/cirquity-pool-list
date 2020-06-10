@@ -41,6 +41,12 @@
       "url" : "https://superblockchain.con-ip.com/xun/",
       "api" : "https://superblockchain.con-ip.com:8143",
       "type" : "cryptonote-nodejs-pool"
+    },
+    {
+      "name" : "Community Pool",
+      "url" : "https://communitypool.org/cirquity/",
+      "api" : "https://ca.communitypool.org:8379",
+      "type" : "cryptonote-nodejs-pool"
     }
   ]
 }
