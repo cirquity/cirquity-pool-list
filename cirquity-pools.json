@@ -27,7 +27,7 @@
     {
       "name" : "FastPooL.XyZ",
       "url" : "https://fastpool.xyz/cirq/",
-      "api" : "https://fastpool.xyz:10120",
+      "api" : "https://fastpool.xyz/api-cirq",
       "type" : "cryptonote-nodejs-pool"
     },
     {
