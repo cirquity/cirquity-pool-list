@@ -47,6 +47,12 @@
       "url" : "https://communitypool.org/cirquity/",
       "api" : "https://ca.communitypool.org:8379",
       "type" : "cryptonote-nodejs-pool"
+    },
+    {
+      "name" : "NewPool",
+      "url" : "https://newpool.pw/btcmz/",
+      "api" : "https://minenice.newpool.pw:8267",
+      "type" : "cryptonote-nodejs-pool"
     }
   ]
 }
