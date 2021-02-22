@@ -53,6 +53,12 @@
       "url" : "https://newpool.pw/btcmz/",
       "api" : "https://minenice.newpool.pw:8267",
       "type" : "cryptonote-nodejs-pool"
+    },
+    {
+      "name" : "Pool Pay",
+      "url" : "https://cirq.pool-pay.com/",
+      "api" : "https://cirq.pool-pay.com:5673",
+      "type" : "cryptonote-nodejs-pool"
     }
   ]
 }
