@@ -45,7 +45,7 @@
     {
       "name" : "Community Pool",
       "url" : "https://communitypool.org/cirquity/",
-      "api" : "https://ca.communitypool.org:8379",
+      "api" : "https://node22.communitypool.org:8119",
       "type" : "cryptonote-nodejs-pool"
     },
     {
