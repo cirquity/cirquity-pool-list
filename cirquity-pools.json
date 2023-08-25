@@ -38,8 +38,8 @@
     },
     {
       "name" : "Super Blockchain",
-      "url" : "https://superblockchain.con-ip.com/xun/",
-      "api" : "https://superblockchain.con-ip.com:8143",
+      "url" : "https://superblockchain.con-ip.com/cirq/",
+      "api" : "https://superblockchain.con-ip.com:14026",
       "type" : "cryptonote-nodejs-pool"
     },
     {
